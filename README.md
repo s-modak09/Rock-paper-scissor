@@ -2,9 +2,9 @@
 
 A simple and interactive **Rock Paper Scissors** game developed as an Android application using **Android Studio**. The app allows the player to choose Rock, Paper, or Scissors and compete against the computer.
 
-## 📱 Download the App
+## 📱 Download
 
-👉 **[Download APK](YOUR_APK_DOWNLOAD_LINK_HERE)**
+[⬇️ Download Rock Paper Scissors APK](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/download/v1.0.0/app-debug.apk)
 
 > Replace `YOUR_APK_DOWNLOAD_LINK_HERE` with your actual GitHub Release or APK download link.
 
