@@ -4,9 +4,7 @@ A simple and interactive **Rock Paper Scissors** game developed as an Android ap
 
 ## 📱 Download
 
-[⬇️ Download Rock Paper Scissors APK](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/download/v1.0.0/app-debug.apk)
-
-> Replace `YOUR_APK_DOWNLOAD_LINK_HERE` with your actual GitHub Release or APK download link.
+[⬇️ Download Rock Paper Scissors APK](https://github.com/s-modak09/Rock-paper-scissor/releases/tag/v1.0.0/app-debug.apk)
 
 ---
 
